@@ -1,5 +1,5 @@
 # MSIB-BisaAi-Ai_Hacker
-### A Journal for my MSIB event
+A Journal for my MSIB event
 
 
 ## -1. The Dataset🧪
